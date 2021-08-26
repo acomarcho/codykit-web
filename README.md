@@ -1,9 +1,9 @@
 # Cody Kit Website
 This is my first freelancing project which I did all the UI/UX and coding work with some copytext and graphic design work involved too.
 
-You can see the website in action at <a href="https://codykit.id">codykit.id</a>.
+You can see the website in action at <a href="https://codykit.id" target="_blank" rel="noreferrer">codykit.id</a>.
 
-Figma design available at <a href="https://www.figma.com/file/wzte8w4mgxaYUb6NXPnCxS/Cody-Kit?node-id=1672%3A30">this link</a>.
+Figma design available at <a href="https://www.figma.com/file/wzte8w4mgxaYUb6NXPnCxS/Cody-Kit?node-id=1672%3A30" target="_blank" rel="noreferrer">this link</a>.
 
 # Getting Started with Create React App
 

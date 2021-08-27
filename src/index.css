@@ -227,6 +227,7 @@ h1 {
     place-items: center;
     padding: 60px;
     padding-top: 70px;
+    padding-bottom: 0px;
   }
   .hero-title {
     max-width: 464px;
